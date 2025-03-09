@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/002 Queries/Datasets/Headers datasets.md",
+                "file": "Vault.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Headers datasets"
+              "title": "Vault"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "query tags",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/002 Queries/Datasets/Headers datasets.md",
+                "file": "Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Headers datasets"
+              "title": "Backlinks for Vault"
             }
           },
           {
@@ -119,12 +120,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/002 Queries/Datasets/Headers datasets.md",
+                "file": "Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Headers datasets"
+              "title": "Outgoing links from Vault"
             }
           },
           {
@@ -148,10 +149,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Knowledge/002 Queries/Datasets/Headers datasets.md"
+                "file": "Vault.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Headers datasets"
+              "title": "File properties for Vault"
             }
           },
           {
@@ -174,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/002 Queries/Datasets/Headers datasets.md",
+                "file": "Vault.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Headers datasets"
+              "title": "Outline of Vault"
             }
           },
           {
@@ -220,8 +221,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ca8080c2bb975b4b",
+  "active": "2fff4773fd245f8b",
   "lastOpenFiles": [
+    "Links to docs.md",
+    "Templates Archive/Vorlage Concepts.md",
+    "Templates/DQL Codeblock.md",
+    "Templates/Periodic notes/Vorlage_Daily_Note.md",
+    "Knowledge/People/@Daniel @NL.md",
+    "Knowledge/002 Queries/Side bar query note.md",
+    "Knowledge/002 Queries/tasks inside tables.md",
+    "Knowledge/002 Queries/Query Query.md",
+    "Knowledge/002 Queries/Datasets/YAML Datasets.md",
+    "Knowledge/002 Queries/Datasets/Headers datasets.md",
     "Knowledge/000 MOC/MOC People.md",
     "Knowledge/000 MOC/Dataview Overview.md",
     "Journal/Daily/2023/2022-08-04.md",
@@ -229,7 +240,6 @@
     "Code Modules/modulePB.js.md",
     "Canvas/School vault setup.canvas",
     "Attachments/Query Renderings/DVJS INLINE page text filter.png",
-    "Knowledge/002 Queries/tasks inside tables.md",
     "Knowledge/002 Queries/Progress bar.md",
     "Knowledge/002 Queries/DVJS with custom Functions.md",
     "Knowledge/Testing/testing.md",
@@ -241,15 +251,6 @@
     "Knowledge/Testing/Untitled 1 1.md",
     "Knowledge/002 Queries/Amount of inlinks and outlinks.md",
     "Knowledge/002 Queries/unsorted queries.md",
-    "Vault.md",
-    "Untitled.md",
-    "tests.md",
-    "Knowledge/002 Queries/Yearly overview of completed tasks.md",
-    "Knowledge/002 Queries/Templater with dataview.md",
-    "Templates/Scripts/Appending headers to the tasks.md",
-    "Templates/Scripts/Dataview to csv converter.md",
-    "Templates/Scripts/Player character sheet creation .md",
-    "Templates/Scripts/Scipt PC sheet analyse.md",
     "Vault Walking",
     "Raw Data/results.json",
     "Raw Data/results10mil.json",
